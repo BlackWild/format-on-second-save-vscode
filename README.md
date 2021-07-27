@@ -15,11 +15,15 @@ Here it comes the `format-on-second-save` extension. This extension does a very 
 
 In this way, you have the control of only saving the file by your save shortcut... and you can also format the document by pressing the same shortcut for the second time.
 
-Here comes a tip for the vscode dev team: you can add this feature to `VS Code` as `editor.formatOnSecondSave`
-
 # Installation
 
 Please wait until the extension is published on the official Extensions Marketplace.
+
+## Note
+
+Here comes a tip for the `VS Code` dev team:
+
+`editor.formatOnSecondSave` is a good name if you decided to add this feature to `VS Code`!
 
 <!--
 
