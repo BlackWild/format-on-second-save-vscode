@@ -6,7 +6,7 @@ Alright! It's when the `editor.formatOnSave` setting of `VS Code` saves your lif
 
 But...
 
-Sometimes you are in the middle of writing a dirty code and you just want to save the file without formatting it conveniently, as well as being able to format the document only if you decide to.
+Sometimes you are in the middle of writing a dirty code and you just want to conveniently save the file without formatting it, as well as being able to format the document only if you decide to.
 
 Here it comes the `format-on-second-save` extension. This extension does a very simple job which we think should be a default `VS Code` functionality:
 
