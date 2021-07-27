@@ -17,6 +17,10 @@ In this way, you have the control of only saving the file by your save shortcut.
 
 Here comes a tip for the vscode dev team: you can add this feature to `VS Code` as `editor.formatOnSecondSave`
 
+# Installation
+
+Please wait until the extension is published on the official Extensions Marketplace.
+
 <!--
 
 ## Features
