@@ -13,7 +13,7 @@ Here it comes the `format-on-second-save` extension. This extension does a very 
 - `ctrl/cmd + s` on a dirty file just saves the file
 - `ctrl/cmd + s` on an unchanged file formats and then saves the file
 
-In this way, you have the control of only saving the file by your save shortcut... and you can also format the document by pressing `s` on the keyboard for the second time while holding the `ctrl/cmd` key
+In this way, you have the control of only saving the file by your save shortcut... and you can also format the document by pressing the same shortcut for the second time.
 
 Here comes a tip for the vscode dev team: you can add this feature to `VS Code` as `editor.formatOnSecondSave`
 
