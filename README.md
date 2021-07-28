@@ -17,7 +17,9 @@ In this way, you have the control of only saving the file by your save shortcut.
 
 # Installation
 
-Please wait until the extension is published on the official Extensions Marketplace.
+In the official Extensions Marketplace, search for `Format onSecondSave`; then click on `Install`.
+
+[Format onSecondSave on Marketplace](https://marketplace.visualstudio.com/items?itemName=blackwild.format-on-second-save-vscode)
 
 ## Note
 
