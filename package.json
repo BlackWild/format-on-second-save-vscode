@@ -2,7 +2,7 @@
   "name": "format-on-second-save-vscode",
   "displayName": "Format onSecondSave",
   "description": "Have more control over saving and formatting functionalities of VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "blackwild",
   "author": {
     "name": "Siavash Davani",
